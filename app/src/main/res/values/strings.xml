@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CCS</string>
+    <string name="default_web_client_id">1234567890-abide12345.apps.intercontinental.com</string>
 </resources>

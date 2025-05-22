@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.ccs" />
+                  <option name="mobileSdkAppId" value="1:608795815874:android:5d04acd2a172573956305b" />
+                  <option name="projectId" value="cash-cow-saver" />
+                  <option name="projectNumber" value="608795815874" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
